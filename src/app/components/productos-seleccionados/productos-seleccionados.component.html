@@ -1,0 +1,66 @@
+<div class="row mt-12">
+    <div class="col-lg-10 offset-lg-1">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="titulo">PRODUCTOS SELECIONADOS</h5>
+                <hr>
+                <form [formGroup]="form" (ngSubmit)="guardarProducto()">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <table class="table table-bordered">
+                                <tbody>                            
+                                    <th>{{ descripcion }}</th>
+                                    <th>{{ color }}</th>
+                                    <th>{{ valor }}</th>
+                                    
+                                    <tr *ngFor="let producto of listVenta">
+                                        <td>{{ producto.descripcion }}</td>
+                                        <td>{{ producto.color }}</td>
+                                        <td>${{ producto.valor }}</td>                                                          
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <hr>
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="input-group mb-3">
+                                        <span class="input-group-text">
+                                            <i class="fa-solid fa-file-signature"
+                                            [class.green-icon]="this.form.get('nombre')?.valid"
+                                            [class.red-icon]="this.form.get('nombre')?.invalid && this.form.get('nombre')?.touched">
+                                            </i>
+                                        </span>
+                                        <input formControlName="nombre" type="text" class="form-control" placeholder="Ingrese la cédula">
+                                    </div>
+                                </div>
+                                <div class="col lg-6">
+                                    <div class="input-group mb-3">
+                                        <span class="input-group-text">
+                                            <i class="fa-solid fa-map-location"
+                                            [class.green-icon]="this.form.get('direccion')?.valid"
+                                            [class.red-icon]="this.form.get('direccion')?.invalid && this.form.get('direccion')?.touched"></i>
+                                        </span>
+                                        <input formControlName="direccion" type="text" class="form-control" placeholder="Ingrese la dirección de entrega">
+                                    </div>  
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-4">
+                                    <label for="totalVenta">Venta Total</label>
+                                    <h3>${{ showTotal }}</h3>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="d-grid gap-2">
+                                        <button [disabled]="this.form.invalid" type="submit" class="btn btn-success btn-lg">
+                                            <i class="fas fa-database"></i>&nbsp; Comprar
+                                        </button>
+                                    </div>  
+                                </div>
+                            </div>
+                        </div>                            
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

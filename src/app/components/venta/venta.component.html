@@ -1,0 +1,45 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="titulo">TIENDA DE COSMETICOS BELLEZA</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="row mt-10">
+        <div class="col-lg-10 offset-lg-1">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="titulo">LISTADO DE PRODUCTOS</h5>  
+                    <hr>                  
+                    <table class="table">
+                        <tbody>                            
+                            <th>{{ descripcion }}</th>
+                            <th>{{ valor }}</th>
+                            <th>{{ color }}</th>
+                            <th>{{ cantidad }}</th>
+                            <th>{{ agregar }}</th>
+                            <tr *ngFor="let producto of listProductos">
+                                <td>{{ producto.descripcion }}</td>
+                                <td>${{ producto.valor }}</td>
+                                <td>{{ producto.color }}</td>
+                                <td>{{ producto.cantidad }}</td>
+                                <td *ngIf="producto.cantidad > 0">
+                                    <i (click)="seleccionarProducto(producto)" class="fa-solid fa-plus text-info far"></i>                                    
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div>
+        <app-productos-seleccionados></app-productos-seleccionados>
+    </div>
+</div>
