@@ -1,0 +1,34 @@
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.deps.json
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DMVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.AssemblyReference.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.AssemblyInfoInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.AssemblyInfo.cs
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.CopyComplete
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\refint\BMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\BMVentaAPI\obj\Debug\net6.0\ref\BMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.deps.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DMVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.csproj.CopyComplete
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\refint\BMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\BMVentaAPI\obj\Debug\net6.0\ref\BMVentaAPI.dll

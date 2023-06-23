@@ -1,0 +1,24 @@
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.deps.json
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.csproj.AssemblyReference.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.AssemblyInfoInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.AssemblyInfo.cs
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\refint\DTVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\DTVentaAPI\obj\Debug\net6.0\ref\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.deps.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\refint\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\DTVentaAPI\obj\Debug\net6.0\ref\DTVentaAPI.dll

@@ -1,0 +1,89 @@
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.exe
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.deps.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.runtimeconfig.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\BMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\DMVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\DMVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.AssemblyReference.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.AssemblyInfoInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.AssemblyInfo.cs
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\scopedcss\bundle\VentaAPI.styles.css
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.CopyComplete
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\refint\VentaAPI.dll
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.pdb
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.genruntimeconfig.cache
+C:\Users\jorgehrv\source\repos\VentaAPI\VentaAPI\obj\Debug\net6.0\ref\VentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.exe
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.deps.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.runtimeconfig.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\VentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\BMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\DMVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\DTVentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\BMVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\DMVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\bin\Debug\net6.0\DTVentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets\msbuild.VentaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VentaAPI.props
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VentaAPI.props
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VentaAPI.props
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\scopedcss\bundle\VentaAPI.styles.css
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.csproj.CopyComplete
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\refint\VentaAPI.dll
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.pdb
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\VentaAPI.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Prueba Argos\VentasProducto-main\VentaAPI\VentaAPI\obj\Debug\net6.0\ref\VentaAPI.dll

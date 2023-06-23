@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VentaAPI", "VentaAPI\VentaAPI.csproj", "{F4537787-F1D9-458B-89C0-3B42461F5CDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccesoDatos", "AccesoDatos", "{43CE4A43-6561-430F-9B76-9BF5D6039B4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Negocio", "Negocio", "{52B27B89-0D06-4F62-A4F2-0A87FD43E280}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{F146254F-0242-447D-B116-E6A3E804B764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMVentaAPI", "DMVentaAPI\DMVentaAPI.csproj", "{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Transversal", "Transversal", "{5EFE4974-70D0-46A6-AF0E-B4B29FB168E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTVentaAPI", "DTVentaAPI\DTVentaAPI.csproj", "{284BC328-8078-4777-ADDF-87B599641EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMVentaAPI", "BMVentaAPI\BMVentaAPI.csproj", "{0CF37765-F107-46A7-8AAA-5FA14249B167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4537787-F1D9-458B-89C0-3B42461F5CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4537787-F1D9-458B-89C0-3B42461F5CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4537787-F1D9-458B-89C0-3B42461F5CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4537787-F1D9-458B-89C0-3B42461F5CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284BC328-8078-4777-ADDF-87B599641EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284BC328-8078-4777-ADDF-87B599641EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284BC328-8078-4777-ADDF-87B599641EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284BC328-8078-4777-ADDF-87B599641EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF37765-F107-46A7-8AAA-5FA14249B167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF37765-F107-46A7-8AAA-5FA14249B167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF37765-F107-46A7-8AAA-5FA14249B167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF37765-F107-46A7-8AAA-5FA14249B167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4537787-F1D9-458B-89C0-3B42461F5CDC} = {F146254F-0242-447D-B116-E6A3E804B764}
+		{828D2FB8-3F4E-4E2F-A8D9-A9446BA546D9} = {43CE4A43-6561-430F-9B76-9BF5D6039B4D}
+		{284BC328-8078-4777-ADDF-87B599641EB0} = {5EFE4974-70D0-46A6-AF0E-B4B29FB168E2}
+		{0CF37765-F107-46A7-8AAA-5FA14249B167} = {52B27B89-0D06-4F62-A4F2-0A87FD43E280}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA301DC-E534-413B-8267-3314C8F49C90}
+	EndGlobalSection
+EndGlobal
